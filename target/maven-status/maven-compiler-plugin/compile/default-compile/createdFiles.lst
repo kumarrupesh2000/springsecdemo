@@ -1,0 +1,10 @@
+com\app\springsecdemo\service\UserService.class
+com\app\springsecdemo\SpringsecdemoApplication.class
+com\app\springsecdemo\filter\JwtFilter.class
+com\app\springsecdemo\model\User.class
+com\app\springsecdemo\controller\UserController.class
+com\app\springsecdemo\service\MyUserDetailsService.class
+com\app\springsecdemo\repository\UserRepo.class
+com\app\springsecdemo\service\JwtService.class
+com\app\springsecdemo\config\SecurityConfig.class
+com\app\springsecdemo\principal\UserPrincipal.class
