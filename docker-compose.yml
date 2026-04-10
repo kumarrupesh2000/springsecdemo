@@ -11,8 +11,8 @@ services:
     image: postgres:latest
     environment:
       POSTGRES_DB: mydb
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: password
+      POSTGRES_USER: rupesh
+      POSTGRES_PASSWORD: 5688
     ports:
       - "5432:5432"
     
